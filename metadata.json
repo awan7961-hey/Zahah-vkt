@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Bot Platform",
+  "description": "Production-grade WhatsApp Multi-Device Bot Framework powered by Baileys, Express, Gemini AI, and Control Dashboard",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

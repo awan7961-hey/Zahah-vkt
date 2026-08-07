@@ -1,0 +1,18 @@
+{
+  "BOT_NAME": "BOSS-MD PRO",
+  "OWNER_NAME": "FAIZAN & ZAHID",
+  "OWNER_NUMBER": "923076411099",
+  "SESSION_ID": "",
+  "PREFIX": ".",
+  "MODE": "public",
+  "AI_MODE": "true",
+  "AUTO_READ": "false",
+  "AUTO_REACT": "true",
+  "ANTI_DELETE": "true",
+  "ANTI_CALL": "true",
+  "AUTO_STATUS_SEEN": "true",
+  "AUTO_STATUS_REACT": "true",
+  "AUTO_STATUS_REPLY": "false",
+  "AUTO_STATUS_MSG": "Status viewed by BOSS-MD WhatsApp Bot 🚀",
+  "STARTUP_IMAGE": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&q=80"
+}
